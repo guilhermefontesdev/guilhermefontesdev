@@ -146,8 +146,6 @@ me.motto("Build it from scratch. Understand why it works.");
 <p align="center">
   <img src="https://img.shields.io/badge/🎬_CINEMA-0A0A0A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/✍️_CREATIVE_WRITING-0A0A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⛏️_MINECRAFT_(COBBLEMON)-0A0A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🏋️_GYM-0A0A0A?style=for-the-badge" />
 </p>
 
 <br/>
@@ -157,7 +155,7 @@ me.motto("Build it from scratch. Understand why it works.");
 
 <p align="center">
   <!-- TROQUE "SEU-LINKEDIN" pelo final do link do seu perfil -->
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/in_│_LINKEDIN-E8132B?style=for-the-badge" /></a>
+  <a href="www.linkedin.com/in/guilherme-viana-dev"><img src="https://img.shields.io/badge/in_│_LINKEDIN-E8132B?style=for-the-badge" /></a>
   <a href="mailto:guilherme.fontes.dev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-E8132B?style=for-the-badge&logo=gmail&logoColor=0A0A0A" /></a>
 </p>
 
