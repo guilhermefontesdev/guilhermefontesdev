@@ -75,7 +75,7 @@ me.motto("Build it from scratch. Understand why it works.");
 
 <!-- CONFIRA os links: troque pelo nome real de cada repositório -->
 <p align="center">
-  <a href="https://github.com/guilhermefontesdev/ecoflux"><img src="./card-ecoflux.svg" width="49%" alt="EcoFlux" /></a>
+  <a href="https://github.com/guilhermefontesdev/TCC"><img src="./card-ecoflux.svg" width="49%" alt="EcoFlux" /></a>
   <a href="https://github.com/guilhermefontesdev/psicogest"><img src="./card-psicogest.svg" width="49%" alt="PsicoGest" /></a>
 </p>
 
